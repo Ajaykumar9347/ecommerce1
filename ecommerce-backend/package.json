@@ -4,7 +4,7 @@
   "description": "backend of ecommerce onlineshopping project\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b project",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./src/index.server.js"
+    "start": "node ./src/index.server.js"
   },
   "keywords": [
     "ecommerce",
